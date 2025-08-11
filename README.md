@@ -17,4 +17,24 @@ It combines:
 - **End-to-End Notebook**: Everything is in one `.ipynb` for simplicity.
 - **Customizable**: Easily replace models or tweak chunk sizes.
 
+## 🚀 How to Run
+
+### Step 1: Upload Your Data
+Place all `.txt` documents in the `data/` folder.
+
+### Step 2: Ingest Data into Vector DB
+Open and run: ingest_data.ipynb  
+This will:
+- Load all `.txt` files from `data/`
+- Split them into smaller chunks
+- Store embeddings in `chroma_db/`
+
+### Step 3: Run the Full Pipeline
+Open and run: agents/pipeline.ipynb  
+This will:
+- Retrieve relevant documents.
+- Summarize them using the LLM.
+- Answer your question based on the summary.
+
+
 
