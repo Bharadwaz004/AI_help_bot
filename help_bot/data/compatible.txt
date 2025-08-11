@@ -1,0 +1,14 @@
+Netflix says, 'This app is not compatible with your device.'
+If you're getting the error message below when trying to use or install Netflix on your Android device, it usually means that your device needs to be restarted or that it isn't Play Protect certified. (That means it won't be able to get the Netflix app from the Google Play Store.)
+
+Error message
+
+This app is not compatible with your device.
+
+To fix the problem:
+
+
+Restart your device
+
+
+Check your device's Play Protect status.

@@ -1,0 +1,63 @@
+Netflix Error NW-2-5
+You might see this message on your TV or TV streaming device when you try to open Netflix:
+
+Netflix has encountered an error. Retrying in [X] seconds.
+Code: NW-2-5
+
+Error code NW-2-5 means your device took too long to connect to Netflix. This usually points to an internet connection problem on your device or home network.
+
+Follow the steps below to fix the issue. If it isn't fixed after doing these steps, you'll need to contact your internet service provider (ISP).
+
+
+1. Check your internet connection
+
+
+2. Restart your device
+
+
+3. Restart your home network
+
+
+4. Move your Wi-Fi router
+
+
+5. Set DNS to automatic (PlayStation/Xbox only)
+
+Netflix Error ui-800-3
+If the error code shown on your device also has numbers in parentheses ( ), search for that exact error code in our Help Center to get the right steps. Example: ui-800-3 (123456)
+
+If the error code on your device shows only ui-800-3, it means information stored on your device needs to be refreshed, or a network issue stopped Netflix from opening.
+
+To fix the problem, follow the steps for your device.
+
+TV or TV-connected device
+
+These steps can fix this error on your TV or a device that connects to your TV, like a streaming stick, media player, set-top box, or Blu-ray player.
+
+Restart your device
+
+Restart your home network
+
+Sign out of Netflix
+
+Restore your default connection settings.
+Netflix Error tvq-pb-101
+Check the error code on your TV. If there are additional numbers or letters inside parentheses ( ), search for that exact error code in our Help Center. There might be an article with steps that fix your exact error code.
+
+This error happens when an issue with data stored on your device stops Netflix from playing.
+
+To fix the problem, follow the steps for your device.
+
+
+Smart TV
+
+
+Restart your device
+
+
+Sign out of Netflix
+
+If you use a Vizio Smart TV and get this issue after following the steps above:
+
+
+Contact the device manufacturer.
